@@ -15,3 +15,5 @@ Steps to generate the game:
 - Add delay to selections.
 - Show back of card initially and flip on select
 - Finished game!
+
+Demo here: https://mariomemory.herokuapp.com/index.html
